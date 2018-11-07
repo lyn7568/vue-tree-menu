@@ -24,7 +24,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 # (2) TreeMenu2 是VUE VUEX 的树形菜单（多级菜单）功能模块
 	---菜单数据 /static/menu1.json
 	---store的使用
- 	---router 配置
+  ---router 配置
 ```
 
 vuex [docs for vuex](https://vuex.vuejs.org/zh/guide/actions.html)
