@@ -17,7 +17,7 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-## '/src/components'
+### '/src/components'
  ``` bash
 # (1) TreeMenu1 是VUE Element-UI 的多级菜单动态渲染的组件
 	---菜单数据 /static/menu.json
@@ -27,4 +27,4 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
  	---router 配置
 ```
 
-vuex [vuex](https://vuex.vuejs.org/zh/guide/actions.html)
+vuex [docs for vuex](https://vuex.vuejs.org/zh/guide/actions.html)
