@@ -28,3 +28,11 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 ```
 
 vuex [docs for vuex](https://vuex.vuejs.org/zh/guide/actions.html)
+
+ ``` bash
+## '/utils/request'
+# (1) axios拦截器配置
+# (2) 封装统一处理请求函数get/post
+```
+
+Axios [docs for axios](https://www.kancloud.cn/yunye/axios/234845)
